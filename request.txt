@@ -1,3 +1,5 @@
-well hello)
-im fine
-byeee
+well hello) - hello
+im fine - how are you
+byeee -bye
+
+
